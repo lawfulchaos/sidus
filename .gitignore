@@ -1,0 +1,10 @@
+.idea
+.venv
+.gitconfig
+test.db
+test.db-journal
+.coverage
+htmlcov
+*.pyc
+app/__pycache__/
+app/routers/__pycache__/
